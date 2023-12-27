@@ -5,3 +5,6 @@ Git Course
 adding feature1
 
 updating this first file
+
+changes 1
+changes 2
