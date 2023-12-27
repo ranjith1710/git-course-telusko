@@ -1,2 +1,2 @@
-Adding feature 2
-updating feature 2
+remove feature 2
+feature 2 is not needed
