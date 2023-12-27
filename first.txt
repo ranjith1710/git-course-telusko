@@ -7,6 +7,6 @@ adding feature1
 updating this first file
 
 changes 1
-changes 2
+changes 2 for feature4
 
 updating this for feature 4
